@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <person>
+        <name>奥尔特加</name>
+        <phoneNum>18342324</phoneNum>
+        <id>1</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gdssdfsdf3234@gmail.com</email>
+        <beiZhu>门将</beiZhu>
+    </person>
+
+    <person>
+        <name>埃德森</name>
+        <phoneNum>33434221</phoneNum>
+        <id>2</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gddfsf323s4@gmail.com</email>
+        <beiZhu>门将</beiZhu>
+    </person>
+
+    <!-- 其他球员信息按照相同的格式生成 -->
+    <!-- ... -->
+    <person>
+        <name>凯尔-沃克</name>
+        <phoneNum>232342</phoneNum>
+        <id>3</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gddfsfsds4@gmail.com</email>
+        <beiZhu>后卫</beiZhu>
+    </person>
+
+    <person>
+        <name>鲁本-迪亚斯</name>
+        <phoneNum>32324234</phoneNum>
+        <id>4</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gds43w2df@gmail.com</email>
+        <beiZhu>后卫</beiZhu>
+    </person>
+
+    <!-- 其他后卫球员信息按照相同的格式生成 -->
+    <!-- ... -->
+
+    <person>
+        <name>菲利普斯</name>
+        <phoneNum>23425234</phoneNum>
+        <id>5</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gds4e2erfd@gmail.com</email>
+        <beiZhu>中场</beiZhu>
+    </person>
+
+    <person>
+        <name>京多安</name>
+        <phoneNum>823234</phoneNum>
+        <id>6</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gd23234fdgs4@gmail.com</email>
+        <beiZhu>中场</beiZhu>
+    </person>
+
+    <!-- 其他中场球员信息按照相同的格式生成 -->
+    <!-- ... -->
+
+    <person>
+        <name>哈兰德</name>
+        <phoneNum>93246545</phoneNum>
+        <id>7</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gdsedfs323df4@gmail.com</email>
+        <beiZhu>前锋</beiZhu>
+    </person>
+
+    <person>
+        <name>阿尔瓦雷斯</name>
+        <phoneNum>13234359</phoneNum>
+        <id>8</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gds323dfs4@gmail.com</email>
+        <beiZhu>前锋</beiZhu>
+    </person>
+    <!-- 继续生成中场、后卫等球员信息，按照相同的格式 -->
+
+    <person>
+        <name>格拉利什</name>
+        <phoneNum>123423440</phoneNum>
+        <id>9</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gds4332dfddf4@gmail.com</email>
+        <beiZhu>中场</beiZhu>
+    </person>
+
+    <person>
+        <name>罗德里</name>
+        <phoneNum>16323442</phoneNum>
+        <id>10</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gdsfsdfsd323s4@gmail.com</email>
+        <beiZhu>中场</beiZhu>
+    </person>
+
+    <!-- 其他中场球员信息按照相同的格式生成 -->
+    <!-- ... -->
+
+    <person>
+        <name>阿坎吉</name>
+        <phoneNum>2345435</phoneNum>
+        <id>11</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gd23234hgfhs4@gmail.com</email>
+        <beiZhu>后卫</beiZhu>
+    </person>
+
+    <person>
+        <name>贝尔纳多-席尔瓦</name>
+        <phoneNum>2032324</phoneNum>
+        <id>12</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gdsdfsd32324@gmail.com</email>
+        <beiZhu>中场</beiZhu>
+    </person>
+
+    <!-- 其他后卫球员信息按照相同的格式生成 -->
+    <!-- ... -->
+
+    <person>
+        <name>马赫雷斯</name>
+        <phoneNum>26343452</phoneNum>
+        <id>13</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gdsdfsre323s4@gmail.com</email>
+        <beiZhu>中场</beiZhu>
+    </person>
+
+    <person>
+        <name>福登</name>
+        <phoneNum>47234554</phoneNum>
+        <id>14</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gsdf546ds4@gmail.com</email>
+        <beiZhu>中场</beiZhu>
+    </person>
+
+    <!-- 其他中场球员信息按照相同的格式生成 -->
+    <!-- ... -->
+    <!-- 继续生成中场、前锋等球员信息，按照相同的格式 -->
+
+    <person>
+        <name>德布劳内</name>
+        <phoneNum>173456532</phoneNum>
+        <id>15</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gddfsf323s4@gmail.com</email>
+        <beiZhu>中场</beiZhu>
+    </person>
+
+    <person>
+        <name>戈麦斯</name>
+        <phoneNum>22345531</phoneNum>
+        <id>16</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>gdh545ds4@gmail.com</email>
+        <beiZhu>后卫</beiZhu>
+    </person>
+
+    <!-- 其他中场、后卫球员信息按照相同的格式生成 -->
+    <!-- ... -->
+
+    <person>
+        <name>拉波尔特</name>
+        <phoneNum>12342344</phoneNum>
+        <id>17</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>1dgdfgdgds4@gmail.com</email>
+        <beiZhu>后卫</beiZhu>
+    </person>
+
+    <person>
+        <name>阿克</name>
+        <phoneNum>62342353</phoneNum>
+        <id>18</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>dfdsfsdkl@gmail.com</email>
+        <beiZhu>后卫</beiZhu>
+    </person>
+
+    <!-- 其他后卫球员信息按照相同的格式生成 -->
+    <!-- ... -->
+
+    <person>
+        <name>坎塞洛</name>
+        <phoneNum>73234322</phoneNum>
+        <id>19</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>dksfsdfhsd2323@gmail.com</email>
+        <beiZhu>后卫</beiZhu>
+    </person>
+
+    <person>
+        <name>阿尔坎吉</name>
+        <phoneNum>2523455</phoneNum>
+        <id>20</id>
+        <sex>男</sex>
+        <address>曼彻斯特</address>
+        <email>25hhdsgsdf@gmail.com</email>
+        <beiZhu>后卫</beiZhu>
+    </person>
+</root>
